@@ -1,0 +1,7 @@
+{
+  "name": "LingoLive AI",
+  "description": "A real-time language learning application powered by Gemini 2.5 Native Audio for immersive conversational practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
